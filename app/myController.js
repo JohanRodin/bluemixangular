@@ -1,5 +1,4 @@
-angular.module('myApp')
-.controller('myController',['$scope', function($scope){
+app.controller('myController',['$scope', function($scope){
   $scope.name= "My First Angular App";
   $scope.version = "v1.0.1";
   $scope.author = "Created by <Johan Rodin>";
