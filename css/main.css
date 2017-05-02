@@ -1,2 +1,10 @@
-.app{<br/>background: #fff;<br/>box-shadow: 0 2px 5px rgba(0,0,0,0.1);<br/>font-size: 18px;<br/>margin: 0 0 8px;<br/>padding: 20px 0;<br/>}
-.main {<br/>margin: 40px 0;<br/>}
+.app{
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  font-size: 18px;
+  margin: 0 0 8px;
+  padding: 20px 0;
+}
+.main {
+  margin: 40px 0;
+}
