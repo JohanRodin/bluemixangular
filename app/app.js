@@ -1,4 +1,4 @@
-var app = angular.module("myApp", ['ngRoute']).controller('myController', myController);
+var app = angular.module("myApp", ['ngRoute']);
 app.config(['$myController', function($myController) {
         $myController.allowGlobals();
     }]);
