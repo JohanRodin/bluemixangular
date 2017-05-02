@@ -1,0 +1,1 @@
+app.controller('myController',['$scope', function($scope){<br/>$scope.name= "My First Angular App";<br/>$scope.version = "v1.0.1";<br/>$scope.author = "Created by &lt;add your name&gt;";<br/>$scope.release ="Released on &lt;add a date&gt;";<br/>$scope.message ="This app is &lt;add your message&gt;";<br/>}]);<br/>
